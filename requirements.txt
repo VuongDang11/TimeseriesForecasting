@@ -1,0 +1,7 @@
+streamlit
+matplotlib
+pandas
+git+https://github.com/amazon-science/chronos-forecasting.git
+prophet
+seaborn
+numpy<2
