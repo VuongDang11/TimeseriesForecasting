@@ -1,0 +1,9 @@
+myenv/
+
+# Ignore PyCache files
+__pycache__/
+*.pyc
+
+
+# Ignore data/output files
+*.csv
